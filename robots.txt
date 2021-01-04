@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /traitement/
+Disallow: /backoffice/
+
+sitemap: https://www.lcj-protection-gardiennage.com/sitemap.xml

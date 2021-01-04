@@ -1,0 +1,10 @@
+RewriteEngine On
+ 
+
+RewriteRule ^Accueil$ index.php
+RewriteRule ^accueil$ index.php
+RewriteRule ^presentation$ public/presentation.php
+RewriteRule ^domaine$ public/domaine.php
+RewriteRule ^contact$ public/contact.php
+
+
